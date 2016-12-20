@@ -1,0 +1,35 @@
+#ifndef GROUPPAGE_H
+#define GROUPPAGE_H
+
+#include <QWidget>
+#include "groupsettings.h"
+#include <vector>
+
+namespace Ui {
+class GroupPage;
+}
+class GroupSettings;
+class GroupPage : public QWidget
+{
+    Q_OBJECT
+
+public:
+    explicit GroupPage(QWidget *parent = 0);
+    GroupPage(SessionManager *sessionmanager);
+    std::vector<std::vector<std::string> > groups_messages;
+    ~GroupPage();
+
+private slots:
+    void on_pushButton_groupsettings_clicked();
+
+    void on_pushButton_sendmessage_clicked();
+
+private:
+    Ui::GroupPage *ui;
+    GroupSettings *groupsettings;
+    std::string getTime();
+    SessionManager *session_manager;
+    void addText();
+};
+
+#endif // GROUPPAGE_H

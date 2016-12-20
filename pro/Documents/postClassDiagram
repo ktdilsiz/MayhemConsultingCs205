@@ -1,0 +1,19 @@
+Post
+----------
+int id_post_
+int user_id_
+string content_
+boolean picture_
+boolean audio_
+boolean video_
+string picLocation_
+string audioLocation_
+string videoLocation_
+int length_
+----------
+Post()
+Post(string)
+Post(string, int type) //type = 1 --> picture, and so on
+~Post()
+boolean contain(string)
+

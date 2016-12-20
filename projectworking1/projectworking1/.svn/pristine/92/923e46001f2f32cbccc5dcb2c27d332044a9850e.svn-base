@@ -1,0 +1,261 @@
+﻿#include "login.h"
+
+Login::Login()
+{
+    horizontal_current = 16;
+    vertical_current = 9;
+}
+
+void Login::runLogin(){
+
+    //initial setup for ncurses
+    initscr();
+    curs_set(0);
+    cbreak();
+    noecho();
+    //keypad setup for getch()
+    keypad(stdscr, TRUE);
+
+    //looping boolean is set to continue looping until exiting
+   continue_looping = true;
+
+    //drawing screen method is called for initial draw
+    drawLogin();
+    //log
+    log << "Login: Login screen drawn";
+
+    do {
+        refresh();
+
+        //key input is stored in ch
+        int ch = getch();
+
+        /* Depending on the input, the arrow on the screen moves
+         * to different options such as username, password, signin or reset
+         *
+         * Stops the loop if the input is 27 (esc key)
+         */
+        switch (ch) {
+        case 10:
+            enterOption();
+            //log
+            log << "Login: Selection made";
+            break;
+        case KEY_DOWN:
+            changePosition(2);
+            break;
+        case KEY_UP:
+            changePosition(0);
+            break;
+        case KEY_LEFT:
+            changePosition(3);
+            break;
+        case KEY_RIGHT:
+            changePosition(1);
+            break;
+        case 27:
+            continue_looping = false;
+            //log
+            log << "Login: User exited";
+            break;
+        }
+
+        //redraws the screen every loop
+        drawLogin();
+
+    } while(continue_looping);
+    //ncurses ends if the loop boolean turns false
+    endwin();
+}
+
+void Login::drawLogin(){
+    drawInitialLogin();
+    drawArrow(vertical_current,horizontal_current);
+}
+
+int Login::changePosition(const int x){
+
+    /* These if statements individually check;
+     * the position of the arrow and
+     * the given input from the keyboard
+     *
+     * Depending on different cases, it moves the arrow to a new location
+     * by changing the global values:
+     * vertical_current and horizontal_current
+     */
+
+    //0 = up
+    //1 = right
+    //2 = down
+    //3 = left
+
+    //check if vertical_current is equal to 16
+    //moves the arrow towards right to Reset
+    if (vertical_current == 16 && x == 1){
+            horizontal_current = 30;
+        return x;
+    }
+    //moves the arrow towards left to Sign In
+    if (vertical_current == 16 && x == 3){
+            horizontal_current = 16;
+        return x;
+    }
+    //moves the arrow down to Password
+    if (vertical_current == 9 && x == 2){
+        vertical_current = 11;
+        return x;
+    }
+    //moves the arrow up to Username
+    if (vertical_current == 11 && x == 0){
+        vertical_current = 9;
+        return x;
+    }
+    //moves the arrow down to Sign In
+    if (vertical_current == 11 && x == 2){
+        vertical_current = 16;
+        return x;
+    }
+    //moves the arrow up to Password
+    if (vertical_current == 16 && x == 0 && horizontal_current != 30){
+        vertical_current = 11;
+        return x;
+    }
+    return x;
+}
+
+bool Login::enterOption(){
+    if (vertical_current == 9){
+        username_current.clear();
+        drawInitialLogin();
+        username_current = getString(vertical_current, horizontal_current + 9);
+        //log
+        log << "Login: User entered username '" + username_current + "'";
+    }
+    if (vertical_current == 11){
+        password_current.clear();
+        drawInitialLogin();
+        password_current = getString(vertical_current, horizontal_current + 9);
+        //log
+        log << "Login: User entered password '" + password_current + "'";
+    }
+    if (vertical_current == 16 && horizontal_current == 30){
+        password_current.clear();
+        username_current.clear();
+        //log
+        log << "Login: User reset fields";
+    }
+    if (vertical_current == 16 && horizontal_current == 16){
+        //Method to check if the username and password combo exists in the database
+        if (username_current.empty()){
+            error_message = "Please enter a username.";
+            //log
+            log << "Login: Error - username empty";
+        }
+        else {
+            if (password_current.empty()){
+                error_message = "Please enter a password.";
+                //log
+                log << "Login: Error - password empty";
+            }
+            else {
+                //Check if username and password are valid
+                if(checkUser()) {
+                    //User is valid, send to session manager and proceed as this user.
+
+                    error_message.clear();
+                    continue_looping = false;
+                    return true;
+                    //...
+                } else {
+                    error_message = "Username and/or password is incorrect.";
+                    return false;
+                }
+
+            }
+        }
+    }
+}
+
+bool Login::checkUser() {
+    //open db connection
+    DBHandler *db = new DBHandler(&log);
+    //create a vector to catch the db dump
+    std::vector<std::vector<std::string>> dump;
+    //build query
+    std::string query = "SELECT username,password from users;";
+    //run query
+    dump = *(db->runQuery(query));
+    //get username and password from db
+    std::string db_user = "NULL";
+    std::string db_pwd = "NULL";
+    for(unsigned int i = 1; i < dump.at(0).size() ; i++){
+        if(dump.at(0).at(i) == username_current){
+            db_user = dump.at(0).at(i);
+            db_pwd = dump.at(1).at(i);
+        }
+    }
+
+    //validate credentials
+    std::cout << db_user << std::endl;
+    if(username_current == db_user) {
+        //username is valid, check password
+        if(password_current == db_pwd) {
+            //password is correct
+            //log
+            log << "Login: DB verified user as valid";
+            return true;
+        } else {
+            //password incorrect
+            //log
+            log << "Login: DB verified user as invalid (code 2)";
+            return false;
+        }
+    } else {
+        //username does not exist in db
+        //log
+        log << "Login: DB verified user as invalid (code 1)";
+        return false;
+    }
+}
+
+void Login::drawInitialLogin(){
+    clear();
+    if (!username_current.empty()){
+        mvprintw(9,25,"%s",username_current.c_str());
+    }
+    if (!password_current.empty()){
+        mvprintw(11,25,"%s",password_current.c_str());
+    }
+    mvprintw(0, 0, username_current.c_str());
+    mvprintw(1, 0, password_current.c_str());
+    mvprintw(6, 33, "User Login");
+    mvprintw(9, 16, "Username:");
+    mvprintw(11, 16, "Password:");
+    mvprintw(16, 16, "Sign In");
+    mvprintw(16, 30, "Reset");
+    mvprintw(13, 16, error_message.c_str());
+    //Print the top of the box
+    for (int i=10; i < 68;i++){
+        mvaddch(4,i,ACS_HLINE);
+    }
+    //Print the bottom of the box
+    for (int i=10; i < 68;i++){
+        mvaddch(19,i,ACS_HLINE);
+    }
+    //Print the left side of the box
+    for (int i=5; i < 19;i++){
+        mvaddch(i,9,ACS_VLINE);
+    }
+    //Print the right side of the box
+    for (int i=5; i < 19;i++){
+        mvaddch(i,68,ACS_VLINE);
+    }
+    //Top left corner
+    mvaddch(4,9,ACS_ULCORNER);
+    //Bottom left corner
+    mvaddch(19,9,ACS_LLCORNER);
+    //Top right corner
+    mvaddch(4,68,ACS_URCORNER);
+    //Bottom left corner
+    mvaddch(19,68,ACS_LRCORNER);
+}

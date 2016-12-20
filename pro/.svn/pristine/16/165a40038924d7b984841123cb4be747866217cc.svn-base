@@ -1,0 +1,60 @@
+#include "messages.h"
+#include "ui_messages.h"
+
+Messages::Messages(QWidget *parent) :
+    QWidget(parent),
+    ui(new Ui::Messages)
+{
+    ui->setupUi(this);
+    //get the current username
+    //set the text on the username button to the current username
+    //ui->pushButton_username->setText();
+}
+
+Messages::~Messages()
+{
+    delete ui;
+}
+
+void Messages::on_pushButton_groups_clicked()
+{
+    //launch groups
+    groups = new Groups();
+    groups->show();
+    this->close();
+}
+
+void Messages::on_pushButton_settings_clicked()
+{
+    //launch settings
+    settings = new Settings();
+    settings->show();
+    this->close();
+}
+
+void Messages::on_pushButton_mainfeed_clicked()
+{
+    //launch main feed
+    mainfeed = new MainFeed();
+    mainfeed->show();
+    this->close();
+}
+
+void Messages::on_pushButton_username_clicked()
+{
+    //launch profile
+    profile = new Profile();
+    profile->show();
+    this->close();
+}
+
+
+void Messages::on_pushButton_startchat_clicked()
+{
+    //Start chat was selected
+    //Start a chat with the selected username
+    QString chat_username;
+    chat_username = ui->lineEdit_enter_username->text();
+    messagespage = new MessagesPage();
+    messagespage->show();
+}

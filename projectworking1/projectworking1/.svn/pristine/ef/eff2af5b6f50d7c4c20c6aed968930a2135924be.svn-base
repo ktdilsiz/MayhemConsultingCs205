@@ -1,0 +1,60 @@
+#include "messagespage.h"
+#include "ui_messagespage.h"
+
+MessagesPage::MessagesPage(SessionManager *sessionmanager) :
+    ui(new Ui::MessagesPage)
+{
+    ui->setupUi(this);
+    session_manager = sessionmanager;
+    //get current username from the databse or session manager
+    //ui->label_username->setText();
+
+    //get the current message recipient from the databse or session manager
+    //ui->label_recipientuser->setText();
+}
+
+MessagesPage::~MessagesPage()
+{
+    delete ui;
+}
+
+void MessagesPage::on_pushButton_sendmessage_clicked()
+{
+    //add message to the database
+    //add message to the current chat window
+    addText();
+    ui->textEdit_typemessage->clear();
+}
+
+std::string MessagesPage::getTime(){
+    time_t currentTime;
+    struct tm *localTime;
+
+    time( &currentTime );                   // Get the current time
+    localTime = localtime( &currentTime );  // Convert the current time to the local time
+
+    int Day    = localTime->tm_mday;
+    int Month  = localTime->tm_mon + 1;
+    int Year   = localTime->tm_year - 100;
+    int Hour   = localTime->tm_hour;
+    int Min    = localTime->tm_min;
+    std::string time;
+
+    //This section concats the different ints to represent the date and time of the post in
+    //a easy to read manner.
+    if (Min < 10){
+        time = std::to_string(Month) + "/" + std::to_string(Day) + "/" + std::to_string(Year) + " " + std::to_string(Hour) + ":" + "0" + std::to_string(Min);
+    }
+    else {
+        time = std::to_string(Month) + "/" + std::to_string(Day) + "/" + std::to_string(Year) + " " + std::to_string(Hour) + ":" + std::to_string(Min);
+    }
+    return time;
+}
+
+void MessagesPage::addText(){
+    QString final_string;
+    std::string time_date = getTime();
+    QString post_text = ui->textEdit_typemessage->toPlainText();
+    final_string = QString::fromStdString(time_date) + QString::fromStdString("- ") + post_text;
+    ui->listWidget->addItem(final_string);
+}

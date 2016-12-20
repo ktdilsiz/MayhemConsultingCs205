@@ -1,0 +1,13 @@
+﻿#include "login.h"
+
+TEST(LoginChangePosition, xValue){
+    Login log;
+    int x = 1;
+    int newPosition = log.changePosition(x);
+    ASSERT_EQ(x, newPosition);
+}
+
+TEST(LoginChangePosition1, xValue1){
+
+    ASSERT_EQ(8, 8);
+}

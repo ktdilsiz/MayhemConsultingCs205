@@ -1,0 +1,32 @@
+﻿#include <iostream>
+#include "login.h"
+#include "createuser.h"
+#include "mainfeed.h"
+#include "usersettings.h"
+using namespace std;
+
+int main()
+{
+
+    Login login;
+    login.runLogin();
+    //CreateUser cu;
+    //cu.runCreateUser();
+    //MainFeed main_feed;
+    //main_feed.runMainFeed();
+//    UserSettings us;
+//    us.runUserSettings();
+
+//    login.username_current = "dummy6";
+//    login.password_current = "1234";
+
+//    cout << login.username_current << " " << login.password_current << endl;
+
+//    if(login.checkUser()){
+//        cout << "works" << endl;
+//    } else {
+//        cout << "hits" << endl;
+//    }
+
+    return 0;
+}

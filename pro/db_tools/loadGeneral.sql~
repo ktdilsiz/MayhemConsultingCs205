@@ -1,0 +1,47 @@
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+	    values(1, "dilsizk", "12345678", "dilsizk@lafayette.edu", "4845420502", "Kemal", "Dilsiz", 4);
+
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+	    values(3, "stern", "12345678", "sternm@lafayette.edu", 9008005454, "Matthew", "Stern", 4);
+
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+	    values(2, "russell", "12345678", "tanakar@lafayette.edu", 8009005454, "Russell", "Tanaka", 4);
+
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+values (4, "dummy1", "1234", dummy1@lafayette.edu, 1112223333, dummy, mate, 1);
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+values (5, "dummy2", "1234", dummy2@lafayette.edu, 1112223333, dummy, mate, 1);
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+values (6, "dummy3", "1234", dummy3@lafayette.edu, 1112223333, dummy, mate, 1);
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+values (7, "dummy4", "1234", dummy4@lafayette.edu, 1112223333, dummy, mate, 1);
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+values (8, "dummy5", "1234", dummy5@lafayette.edu, 1112223333, dummy, mate, 1);
+insert into users (id, username, password, email, phoneno, firstname, lastname, type)
+values (9, "dummy6", "1234", dummy6@lafayette.edu, 1112223333, dummy, mate, 1);
+
+insert into groups (id, groupname) values (1, "dummyGroup1");
+insert into groups (id, groupname) values (2, "dummyGroup2");
+insert into groups (id, groupname) values (3, "dummyGroup3");
+
+insert into usergroups (username, groupname)
+	values("dilsizk", "dummyGroup1");
+insert into usergroups (username, groupname)
+	values("dilsizk", "dummyGroup2");
+insert into usergroups (username, groupname)
+	values("dilsizk", "dummyGroup3");
+
+insert into usergroups (username, groupname)
+	values("dummy1", "dummyGroup1");
+insert into usergroups (username, groupname)
+	values("dummy1", "dummyGroup2");
+insert into usergroups (username, groupname)
+	values("dummy1", "dummyGroup3");
+insert into usergroups (username, groupname)
+	values("dummy2", "dummyGroup2");
+insert into usergroups (username, groupname)
+	values("dummy3", "dummyGroup1");
+insert into usergroups (username, groupname)
+	values("dummy4", "dummyGroup1");
+
+

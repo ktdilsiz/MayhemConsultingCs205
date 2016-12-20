@@ -1,0 +1,2252 @@
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen opened
+24 | Login: Login screen drawn
+24 | Login: User entered username 'admin'
+24 | Login: Selection made
+24 | Login: User entered password 'admin123'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Login: Login screen opened
+24 | Login: Login screen drawn
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen opened
+24 | Login: Login screen drawn
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Login: User reset fields
+24 | Login: Selection made
+24 | Log started.
+24 | Log started.
+24 | Login: Login screen opened
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen opened
+24 | Login: Login screen drawn
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | Log started.
+24 | Login: Login screen opened
+24 | Login: Login screen drawn
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'stern'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Log completed.
+24 | Log completed.
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'russell'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'russell'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Log completed.
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'kemal'
+24 | Login: Selection made
+24 | Login: User entered password 'dilsiz'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 1)
+24 | Login: Selection made
+24 | Login: User entered username ''
+24 | Login: Selection made
+24 | Login: User reset fields
+24 | Login: Selection made
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username ''
+24 | Login: Selection made
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '1'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as invalid (code 2)
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log started.
+24 | Login: Login screen drawn
+24 | Login: User entered username 'dilsizk'
+24 | Login: Selection made
+24 | Login: User entered password '12345678'
+24 | Login: Selection made
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Login: Selection made
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Login: DB verified user as valid
+24 | Log started.
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Database connection closed
+24 | Log completed.

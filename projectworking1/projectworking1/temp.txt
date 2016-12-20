@@ -1,0 +1,42 @@
+bool Login::checkUser() {
+    //open db connection
+    DBHandler *db = new DBHandler(&log);
+            //= *(new DBHandler::DBHandler());
+    //create a vector to catch the db dump
+    std::vector<std::vector<std::string> > dump;
+
+    //build query
+    std::string query = "SELECT * from user;";
+    //run query
+    dump = *(db->runQuery(query));
+
+    //get username from db
+    std::string db_user = dump.at(2).at(1);
+    std::string username_current_upper = username_current;
+    //make current_username and db_user case insensitive
+    //std::transform(db_user.begin(), db_user.end(), db_user.begin(), ::toupper);
+    //std::transform(username_current_upper.begin(), username_current_upper.end(), username_current_upper.begin(), ::toupper);
+    //get password from db
+    std::string db_pwd = dump.at(3).at(1);
+    //validate credentials
+    if(username_current_upper == db_user) {
+        //username is valid, check password
+        if(password_current == db_pwd) {
+            //password is correct
+            //log
+            log << "Login: DB verified user as valid";
+            return true;
+        } else {
+            //password incorrect
+            //log
+            log << "Login: DB verified user as invalid (code 2)";
+            return false;
+        }
+    } else {
+        //username does not exist in db
+        //log
+        log << "Login: DB verified user as invalid (code 1)";
+        return false;
+    }
+}
+

@@ -1,0 +1,5 @@
+24 | Log started.
+24 | DBHandler: Connection to local db opened
+24 | DBHandler: Query size is 84 bytes
+24 | DBHandler: Query formatted into prepared statement
+24 | DBHandler: First evaluation step completed

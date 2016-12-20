@@ -1,0 +1,12 @@
+insert into dummyGroup1_content(id_msg, time, content, sendername)
+values(1, '2016-04-26 11:00:01', "this is grouptest1", "dilsizk");
+
+insert into dummyGroup1_content(id_msg, time, content, sendername)
+values(1, '2016-04-26 11:00:01', "this is grouptest1", "dilsizk");
+
+
+insert into dummyGroup1_content(id_msg, time, content, sendername)
+values(1, '2016-04-26 11:00:01', "this is grouptest1", "dilsizk");
+
+
+

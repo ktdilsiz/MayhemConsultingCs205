@@ -1,0 +1,69 @@
+#include "settings.h"
+#include "ui_settings.h"
+
+Settings::Settings(QWidget *parent) :
+    QWidget(parent),
+    ui(new Ui::Settings)
+{
+    ui->setupUi(this);
+
+    //get the current username
+    //set the text on the username button to the current username
+    //ui->pushButton_username->setText();
+
+
+    //This code will retrieve the user's info and save it to the local variables.
+    firstname_current = "Russell";
+    lastname_current = "Tanaka";
+    email_current = "tanakar@lafayette.edu";
+    phonenumber_current = "2036218762";
+    ui->lineEdit_firstname->insert(QString::fromStdString(firstname_current));
+    ui->lineEdit_lastname->insert(QString::fromStdString(lastname_current));
+    ui->lineEdit_email->insert(QString::fromStdString(email_current));
+    ui->lineEdit_phone->insert(QString::fromStdString(phonenumber_current));
+}
+Settings::~Settings()
+{
+    delete ui;
+}
+
+void Settings::on_pushButton_firstname_clicked()
+{
+    //Change the firstname_current to the line edit text
+    firstname_current = ui->lineEdit_firstname->text().toStdString();
+    //method to change the first name in the current user's databse
+}
+
+void Settings::on_pushButton_lastname_clicked()
+{
+    lastname_current = ui->lineEdit_lastname->text().toStdString();
+    //method to change the last name in the current user's databse
+}
+
+void Settings::on_pushButton_email_clicked()
+{
+    email_current = ui->lineEdit_email->text().toStdString();
+    //method to change the email in the current user's databse
+}
+
+void Settings::on_pushButton_phone_clicked()
+{
+    phonenumber_current = ui->lineEdit_phone->text().toStdString();
+    //method to change the phone number in the current user's databse
+}
+
+void Settings::on_pushButton_mainfeed_clicked()
+{
+    //Go back to main feed page
+    mainfeed = new MainFeed();
+    mainfeed->show();
+    this->close();
+}
+
+void Settings::on_pushButton_username_clicked()
+{
+    //Launch the user profile
+    profile = new Profile();
+    profile->show();
+    this->close();
+}

@@ -1,0 +1,43 @@
+﻿#include "login.h"
+#include "ui_login.h"
+#include <string>
+
+Login::Login(QWidget *parent) :
+    QMainWindow(parent),
+    ui(new Ui::Login)
+{
+    ui->setupUi(this);
+    ui->lineEdit_2->setEchoMode(QLineEdit::Password);
+}
+
+Login::~Login()
+{
+    delete ui;
+}
+
+void Login::on_pushButton_2_clicked()
+{
+    ui->lineEdit->clear();
+    ui->lineEdit_2->clear();
+}
+
+void Login::on_pushButton_clicked()
+{
+        QString tmp_username;
+        QString tmp_password;
+        tmp_username = ui->lineEdit->text();
+        tmp_password = ui->lineEdit_2->text();
+        username_current = tmp_username.toStdString();
+        password_current = tmp_password.toStdString();
+        //add if statement to checkUser()
+        sessionmanager = new SessionManager();
+        sessionmanager->current_user = new User("tanakar", "pasword", 1);
+        sessionmanager->current_user->username = "tanakar";
+        sessionmanager->current_user->first_name = "Russell";
+        sessionmanager->current_user->last_name = "Tanaka";
+        sessionmanager->current_user->email = "tanakar@lafayette.edu";
+        //sessionmanager->current_user->phone_number = "2036218762";
+        mainfeed = new MainFeed(sessionmanager);
+        mainfeed->show();
+        this->close();
+}

@@ -1,0 +1,14 @@
+Group
+----------
+vector<User> user_list
+User *admin
+vector<Rule> rule_list      //possible extra feature
+----------
+Group(string group_name)
+string modifyGroupRules()   //again possible extra
+string modifyGroupName(string group_name)
+user kick(user)
+user ban(user)
+user promote(user)
+user sendInvitation(user)
+

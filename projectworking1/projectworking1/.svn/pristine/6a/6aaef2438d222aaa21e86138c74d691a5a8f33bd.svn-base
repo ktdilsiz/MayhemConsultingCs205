@@ -1,0 +1,48 @@
+#ifndef MESSAGES_H
+#define MESSAGES_H
+
+#include <QWidget>
+#include <string>
+#include "mainfeed.h"
+#include "profile.h"
+#include "settings.h"
+#include "groups.h"
+#include "messagespage.h"
+
+namespace Ui {
+class Messages;
+}
+class Settings;
+class MainFeed;
+class Profile;
+class Groups;
+class Messages : public QWidget
+{
+    Q_OBJECT
+
+public:
+    explicit Messages(QWidget *parent = 0);
+    ~Messages();
+
+private slots:
+    void on_pushButton_groups_clicked();
+
+    void on_pushButton_settings_clicked();
+
+    void on_pushButton_mainfeed_clicked();
+
+    void on_pushButton_username_clicked();
+
+    void on_pushButton_startchat_clicked();
+
+private:
+    Ui::Messages *ui;
+    MainFeed *mainfeed;
+    Profile *profile;
+    Groups *groups;
+    Settings *settings;
+    MessagesPage *messagespage;
+    void addText(std::string str);
+};
+
+#endif // MESSAGES_H

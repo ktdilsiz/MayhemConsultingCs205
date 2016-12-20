@@ -1,0 +1,14 @@
+#ifndef MAINFEED_H
+#define MAINFEED_H
+#include "screen.h"
+
+class MainFeed: public Screen
+{
+public:
+    WINDOW* win_scroll;
+    MainFeed();
+    void runMainFeed();
+    void drawMainFeed();
+};
+
+#endif // MAINFEED_H

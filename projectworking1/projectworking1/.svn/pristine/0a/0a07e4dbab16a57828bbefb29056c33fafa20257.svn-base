@@ -1,0 +1,61 @@
+#include "mainfeed.h"
+#include "ui_mainfeed.h"
+
+MainFeed::MainFeed(QWidget *parent) :
+    QWidget(parent),
+    ui(new Ui::MainFeed)
+{
+    ui->setupUi(this);
+
+}
+
+MainFeed::MainFeed(SessionManager *manager) :
+        ui(new Ui::MainFeed)
+{
+    ui->setupUi(this);
+    //get the current username
+    //set the text on the username button to the current username
+    ui->pushButton_username->setText(QString::fromStdString(manager->current_user->username));
+}
+
+MainFeed::~MainFeed()
+{
+    delete ui;
+}
+
+void MainFeed::addText(std::string str){
+    ui->listWidget->addItem(QString::fromStdString(str));
+}
+
+void MainFeed::on_pushButton_settings_clicked()
+{
+    settings = new Settings();
+    settings->show();
+    this->close();
+}
+
+void MainFeed::on_pushButton_groups_clicked()
+{
+    //launch groups page
+    groups = new Groups();
+    groups->show();
+    this->close();
+}
+
+void MainFeed::on_pushButton_messages_clicked()
+{
+    //launch messages page
+    messages = new Messages();
+    messages->show();
+    this->close();
+    //ui->listWidget->addItem("Tanakar-4/27/16 10:01 AM: Hello everybody!!");
+    //ui->listWidget->addItem("Tanakar-4/27/16 10:01 AM: Hello everybody!!");
+}
+
+void MainFeed::on_pushButton_username_clicked()
+{
+    //launch user profile page
+    profile = new Profile();
+    profile->show();
+    this->close();
+}

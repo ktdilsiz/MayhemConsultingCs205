@@ -1,0 +1,20 @@
+Message
+----------
+int id_msg_
+int user_id_
+string content_
+boolean picture_
+boolean audio_
+boolean video_
+string picLocation_
+string audioLocation_
+string videoLocation_
+int length_
+----------
+Message()
+Message(string)
+Message(string, int type) //type = 1 --> picture, and so on
+~Message()
+boolean contain(string)
+
+

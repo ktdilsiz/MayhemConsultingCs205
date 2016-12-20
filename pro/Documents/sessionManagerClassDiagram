@@ -1,0 +1,46 @@
+sessionManager
+-------------
+boolean running_
+
+-------------
+    SessionManager();
+    ~SessionManager();
+
+    void login();
+    void logout();
+    bool setStatus();
+
+    string sendInvitation(Group);
+    string createGroup(std::string name);
+
+    string createMessage(Message);
+    string createMessage(Message, int type);
+
+    string createPost(Post);
+    string createPost(Post, int type);
+
+sessionManager()
+~sessionManager()
+string createAccout(string, string)         //return username if successful, else null
+string validUser(user)                      //return username OR user class? 
+boolean createNewsFeed(user)                //return successful boolean?
+boolean setStatus(boolean online)
+string logout(user)                         //return username OR user class? 
+string databaseAccess(user)                 //return username OR user class? 
+string promote(user)                        //return username OR user class? 
+string ban(user)                            //return username OR user class? 
+string createGroup(user, string name)       //return groupname OR group class?
+string createGroup(user, string, rules[])   //return groupname OR group class?
+
+
+================== Possible another class?
+
+messageManager
+--------------
+boolean running_
+
+--------------
+messageManager()
+~messageManager()
+boolean groupMessage(user, message)       //return successful boolean?
+boolean blogPost(user, post)              //return successful boolean?

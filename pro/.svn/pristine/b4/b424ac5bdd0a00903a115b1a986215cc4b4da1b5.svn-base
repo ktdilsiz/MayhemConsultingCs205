@@ -1,0 +1,74 @@
+#include "groups.h"
+#include "ui_groups.h"
+
+Groups::Groups(QWidget *parent) :
+    QWidget(parent),
+    ui(new Ui::Groups)
+{
+    ui->setupUi(this);
+
+    //get the current username
+    //set the text on the username button to the current username
+    //ui->pushButton_username->setText();
+}
+
+Groups::Groups(SessionManager *manager) :
+    ui(new Ui::Groups)
+{
+    ui->setupUi(this);
+    session_manager = manager;
+    //get the current username
+    //set the text on the username button to the current username
+    ui->pushButton_username->setText(QString::fromStdString(session_manager->current_user->username));
+    groups = session_manager->getGroups();
+}
+
+Groups::~Groups()
+{
+    delete ui;
+}
+
+void Groups::on_pushButton_username_clicked()
+{
+    //launch user profile
+    profile = new Profile(session_manager);
+    profile->show();
+    this->close();
+}
+
+void Groups::on_pushButton_groups_clicked()
+{
+    //launch groups
+    //current page
+}
+
+void Groups::on_pushButton_messages_clicked()
+{
+    //launch messages
+    messages = new Messages(session_manager);
+    messages->show();
+    this->close();
+}
+
+void Groups::on_pushButton_settings_clicked()
+{
+    //launch settings
+    settings = new Settings(session_manager);
+    settings->show();
+    this->close();
+}
+
+void Groups::on_pushButton_mainfeed_clicked()
+{
+    //launch main feed
+    mainfeed = new MainFeed(session_manager);
+    mainfeed->show();
+    this->close();
+}
+
+void Groups::on_pushButton_startchat_clicked()
+{
+    //start a chat with the input group
+    grouppage = new GroupPage();
+    grouppage->show();
+}
